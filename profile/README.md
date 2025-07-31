@@ -2,7 +2,6 @@
   
 **Scalable and efficient geospatial processing in Python.**
 
----
 
 ## About mapchete
 
@@ -10,7 +9,6 @@ The **mapchete** ecosystem provides tools and libraries to process massive amoun
 
 Our tools are designed to be modular, user-friendly, and highly extensible, making them suitable for both interactive analysis and large-scale operational pipelines.
 
----
 
 ## Core Packages
 
@@ -40,7 +38,6 @@ A service to discover, manage, and execute `mapchete` processes via a REST API. 
 * **Job Management**: Asynchronously execute and monitor long-running processing jobs.
 * **Scalable Architecture**: Designed to be deployed in containerized environments like Docker and Kubernetes.
 
----
 
 ## Our Community
 
