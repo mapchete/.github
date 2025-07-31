@@ -35,7 +35,7 @@ An extension for Earth Observation (EO) applications. It provides drivers and to
 
 A service to discover, manage, and execute `mapchete` processes via a REST API. It allows you to build web services and workflows around your `mapchete` processes.
 
-* **REST API**: Expose your `mapchete` processes as web services using an OGC API Processes-lik Interface.
+* **REST API**: Expose your `mapchete` processes as web services using an [OGC API Processes](https://ogcapi.ogc.org/processes/)-like interface.
 * **Job Management**: Asynchronously execute and monitor long-running processing jobs.
 * **Scalable Architecture**: Designed to be deployed in containerized environments like Docker and Kubernetes.
 
