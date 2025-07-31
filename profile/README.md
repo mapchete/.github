@@ -21,20 +21,21 @@ The core library and command-line tool. It provides the foundation for tile-base
 * **Simple Configuration**: Use easy-to-read `.mapchete` files to separate your processing logic from your data configuration.
 * **Pythonic API**: Use `mapchete` directly from the command line or as a library in your own Python applications.
 * **Interactive Inspection**: Instantly visualize your results on a browser map with the built-in `serve` command.
+* **Cloud-Optimized**: Designed to work with Cloud-Optimized GeoTIFFs (COGs) and other cloud-native formats.
 
 ### 🛰️ [mapchete-eo](https://github.com/mapchete/mapchete-eo)
 
 An extension for Earth Observation (EO) applications. It provides drivers and tools to work with cloud-based EO data sources like SpatioTemporal Asset Catalogs (STAC).
 
 * **STAC Integration**: Directly process data from STAC Items or STAC API search results.
-* **Cloud-Optimized**: Designed to work with Cloud-Optimized GeoTIFFs (COGs) and other cloud-native formats.
-* **Common EO Workflows**: Simplifies tasks like creating mosaics, time-series analysis, and data fusion.
+* **Common EO Workflows**: Simplifies tasks like creating mosaics and time-series analysis.
+* **Advanced Sentinel-2 Handling**: Built in capabilities like BRDF correction, and reading from various data archives.
 
 ### ☁️ [mapchete-hub](https://github.com/mapchete/mapchete-hub)
 
 A service to discover, manage, and execute `mapchete` processes via a REST API. It allows you to build web services and workflows around your `mapchete` processes.
 
-* **REST API**: Expose your `mapchete` processes as web services.
+* **REST API**: Expose your `mapchete` processes as web services using an OGC API Processes-lik Interface.
 * **Job Management**: Asynchronously execute and monitor long-running processing jobs.
 * **Scalable Architecture**: Designed to be deployed in containerized environments like Docker and Kubernetes.
 
