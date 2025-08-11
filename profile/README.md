@@ -14,6 +14,13 @@ Our tools are designed to be modular, user-friendly, and highly extensible, maki
 
 ### 🗺️ [mapchete](https://github.com/mapchete/mapchete)
 
+[![PyPI Version](https://img.shields.io/pypi/v/mapchete.svg)](https://pypi.org/project/mapchete/)
+[![License](https://img.shields.io/pypi/l/mapchete.svg)](https://github.com/mapchete/mapchete/blob/main/LICENSE)
+[![Tests](https://img.shields.io/github/actions/workflow/status/mapchete/mapchete/python-package.yml?label=tests)](https://github.com/mapchete/mapchete/actions)
+[![Codecov](https://codecov.io/gh/mapchete/mapchete/branch/main/graph/badge.svg?token=aOracso0OQ)](https://codecov.io/gh/mapchete/mapchete)
+[![Repo Size](https://img.shields.io/github/repo-size/mapchete/mapchete)](https://github.com/mapchete/mapchete)
+[![Documentation](https://readthedocs.org/projects/mapchete/badge/?version=stable)](http://mapchete.readthedocs.io/en/stable/?badge=stable)
+
 The core library and command-line tool. It provides the foundation for tile-based processing of raster and vector data.
 
 * **Process Large Datasets**: Work with massive raster and vector data without memory issues.
