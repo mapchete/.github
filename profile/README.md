@@ -12,7 +12,7 @@ Our tools are designed to be modular, user-friendly, and highly extensible, maki
 
 ## Core Packages
 
-### 🗺️ [mapchete](https://github.com/mapchete/mapchete)
+### <a href="https://github.com/mapchete/mapchete"><img src="https://raw.githubusercontent.com/mapchete/mapchete/main/logo/mapchete_grey.svg" alt="mapchete logo" height="38"></a>
 
 [![PyPI Version](https://img.shields.io/pypi/v/mapchete.svg)](https://pypi.org/project/mapchete/)
 [![License](https://img.shields.io/pypi/l/mapchete.svg)](https://github.com/mapchete/mapchete/blob/main/LICENSE)
@@ -30,7 +30,7 @@ The core library and command-line tool. It provides the foundation for tile-base
 * **Interactive Inspection**: Instantly visualize your results on a browser map with the built-in `serve` command.
 * **Cloud-Optimized**: Designed to work with Cloud-Optimized GeoTIFFs (COGs) and other cloud-native formats.
 
-### 🛰️ [mapchete-eo](https://github.com/mapchete/mapchete-eo)
+### <a href="https://github.com/mapchete/mapchete-eo"><img src="https://github.com/mapchete/mapchete-eo/blob/main/logo/mapchete_eo.svg" alt="mapchete EO logo" height="38"></a>
 
 [![PyPI Version](https://img.shields.io/pypi/v/mapchete-eo.svg)](https://pypi.org/project/mapchete-eo/)
 [![License](https://img.shields.io/pypi/l/mapchete-eo.svg)](https://github.com/mapchete/mapchete-eo/blob/main/LICENSE)
@@ -44,7 +44,7 @@ An extension for Earth Observation (EO) applications. It provides drivers and to
 * **Common EO Workflows**: Simplifies tasks like creating mosaics and time-series analysis.
 * **Advanced Sentinel-2 Handling**: Built in capabilities like BRDF correction, and reading from various data archives.
 
-### ☁️ [mapchete-hub](https://github.com/mapchete/mapchete-hub)
+### <a href="https://github.com/mapchete/mapchete-hub"><img src="https://github.com/mapchete/mapchete-hub/blob/main/logo/mapchete_hub_grey.svg" alt="mapchete Hub logo" height="38"></a>
 
 [![PyPI Version](https://img.shields.io/pypi/v/mapchete-hub.svg)](https://pypi.org/project/mapchete-hub/)
 [![License](https://img.shields.io/pypi/l/mapchete-hub.svg)](https://github.com/mapchete/mapchete-hub/blob/main/LICENSE)
