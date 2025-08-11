@@ -32,6 +32,12 @@ The core library and command-line tool. It provides the foundation for tile-base
 
 ### 🛰️ [mapchete-eo](https://github.com/mapchete/mapchete-eo)
 
+[![PyPI Version](https://img.shields.io/pypi/v/mapchete-eo.svg)](https://pypi.org/project/mapchete-eo/)
+[![License](https://img.shields.io/pypi/l/mapchete-eo.svg)](https://github.com/mapchete/mapchete-eo/blob/main/LICENSE)
+[![Tests](https://img.shields.io/github/actions/workflow/status/mapchete/mapchete-eo/python-package.yml?label=tests)](https://github.com/mapchete/mapchete-eo/actions)
+[![Codecov](https://codecov.io/gh/mapchete/mapchete-eo/graph/badge.svg?token=VD1YOF3QA2)](https://codecov.io/gh/mapchete/mapchete-eo)
+[![Repo Size](https://img.shields.io/github/repo-size/mapchete/mapchete-eo)](https://github.com/mapchete/mapchete-eo)
+
 An extension for Earth Observation (EO) applications. It provides drivers and tools to work with cloud-based EO data sources like SpatioTemporal Asset Catalogs (STAC).
 
 * **STAC Integration**: Directly process data from STAC Items or STAC API search results.
@@ -39,6 +45,12 @@ An extension for Earth Observation (EO) applications. It provides drivers and to
 * **Advanced Sentinel-2 Handling**: Built in capabilities like BRDF correction, and reading from various data archives.
 
 ### ☁️ [mapchete-hub](https://github.com/mapchete/mapchete-hub)
+
+[![PyPI Version](https://img.shields.io/pypi/v/mapchete-hub.svg)](https://pypi.org/project/mapchete-hub/)
+[![License](https://img.shields.io/pypi/l/mapchete-hub.svg)](https://github.com/mapchete/mapchete-hub/blob/main/LICENSE)
+[![Tests](https://img.shields.io/github/actions/workflow/status/mapchete/mapchete-hub/python-package.yml?label=tests)](https://github.com/mapchete/mapchete-hub/actions)
+[![Codecov](https://codecov.io/gh/mapchete/mapchete-hub/graph/badge.svg?token=VD1YOF3QA2)](https://codecov.io/gh/mapchete/mapchete-hub)
+[![Repo Size](https://img.shields.io/github/repo-size/mapchete/mapchete-hub)](https://github.com/mapchete/mapchete-hub)
 
 A service to discover, manage, and execute mapchete processes via a REST API. It allows you to build web services and workflows around your mapchete processes.
 
