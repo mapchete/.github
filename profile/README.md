@@ -58,6 +58,23 @@ A service to discover, manage, and execute mapchete processes via a REST API. It
 * **Job Management**: Asynchronously execute and monitor long-running processing jobs.
 * **Scalable Architecture**: Designed to be deployed in containerized environments like Docker and Kubernetes.
 
+## Docker image
+
+[![Latest Release](https://img.shields.io/github/v/release/mapchete/container-images)](https://github.com/mapchete/container-images/releases)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/mapchete/container-images/build-image.yml)](https://github.com/mapchete/container-images/actions/workflows/build-image.yml)
+[![MIT License](https://img.shields.io/github/license/mapchete/container-images)](https://github.com/mapchete/container-images/blob/main/LICENSE)
+
+There is also a docker image available, based on GDAL and containing the latest releases of mapchete, mapchete EO and mapchete Hub:
+
+```shell
+  docker pull ghcr.io/mapchete/mapchete:latest
+```
+
+Get a tagged release:
+
+```shell
+  docker pull ghcr.io/mapchete/mapchete:<release>
+```
 
 ## Our Community
 
