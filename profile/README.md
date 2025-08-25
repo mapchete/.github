@@ -15,6 +15,7 @@ Our tools are designed to be modular, user-friendly, and highly extensible, maki
 ### <a href="https://github.com/mapchete/mapchete"><img src="https://raw.githubusercontent.com/mapchete/mapchete/main/logo/mapchete_grey.svg" alt="mapchete logo" height="38"></a>
 
 [![PyPI Version](https://img.shields.io/pypi/v/mapchete.svg)](https://pypi.org/project/mapchete/)
+[![Conda Version](https://img.shields.io/conda/v/conda-forge/mapchete)](https://anaconda.org/conda-forge/mapchete)
 [![License](https://img.shields.io/pypi/l/mapchete.svg)](https://github.com/mapchete/mapchete/blob/main/LICENSE)
 [![Tests](https://img.shields.io/github/actions/workflow/status/mapchete/mapchete/python-package.yml?label=tests)](https://github.com/mapchete/mapchete/actions)
 [![Codecov](https://codecov.io/gh/mapchete/mapchete/branch/main/graph/badge.svg?token=aOracso0OQ)](https://codecov.io/gh/mapchete/mapchete)
@@ -33,6 +34,7 @@ The core library and command-line tool. It provides the foundation for tile-base
 ### <a href="https://github.com/mapchete/mapchete-eo"><img src="https://github.com/mapchete/mapchete-eo/blob/main/logo/mapchete_eo.svg" alt="mapchete EO logo" height="38"></a>
 
 [![PyPI Version](https://img.shields.io/pypi/v/mapchete-eo.svg)](https://pypi.org/project/mapchete-eo/)
+[![Conda Version](https://img.shields.io/conda/v/conda-forge/mapchete-eo)](https://anaconda.org/conda-forge/mapchete-eo)
 [![License](https://img.shields.io/pypi/l/mapchete-eo.svg)](https://github.com/mapchete/mapchete-eo/blob/main/LICENSE)
 [![Tests](https://img.shields.io/github/actions/workflow/status/mapchete/mapchete-eo/python-package.yml?label=tests)](https://github.com/mapchete/mapchete-eo/actions)
 [![Codecov](https://codecov.io/gh/mapchete/mapchete-eo/graph/badge.svg?token=VD1YOF3QA2)](https://codecov.io/gh/mapchete/mapchete-eo)
@@ -47,6 +49,7 @@ An extension for Earth Observation (EO) applications. It provides drivers and to
 ### <a href="https://github.com/mapchete/mapchete-hub"><img src="https://github.com/mapchete/mapchete-hub/blob/main/logo/mapchete_hub_grey.svg" alt="mapchete Hub logo" height="38"></a>
 
 [![PyPI Version](https://img.shields.io/pypi/v/mapchete-hub.svg)](https://pypi.org/project/mapchete-hub/)
+[![Conda Version](https://img.shields.io/conda/v/conda-forge/mapchete-hub)](https://anaconda.org/conda-forge/mapchete-hub)
 [![License](https://img.shields.io/pypi/l/mapchete-hub.svg)](https://github.com/mapchete/mapchete-hub/blob/main/LICENSE)
 [![Tests](https://img.shields.io/github/actions/workflow/status/mapchete/mapchete-hub/python-package.yml?label=tests)](https://github.com/mapchete/mapchete-hub/actions)
 [![Codecov](https://codecov.io/gh/mapchete/mapchete-hub/graph/badge.svg?token=VD1YOF3QA2)](https://codecov.io/gh/mapchete/mapchete-hub)
